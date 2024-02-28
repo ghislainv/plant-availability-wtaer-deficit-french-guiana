@@ -1,2 +1,2 @@
-# Computing plant available water deficit in French Guiana
+# Computing annual plant available water deficit (APAWD) in French Guiana
 
